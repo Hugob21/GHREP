@@ -12,6 +12,7 @@ public class Principal {
 		String miVariable;
 		String miEntero;
 		
+		System.out.println("Ahora en GitHub");
 	}
 
 }
